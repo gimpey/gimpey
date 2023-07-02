@@ -4,4 +4,4 @@ Welcome to my profile. For business inquiries, please reach out to the email on 
 
 ## Projects
 
-Currently a develop for [pr0xy](https://github.com/pr0xy-io).
+Currently a developer for [pr0xy](https://github.com/pr0xy-io).
