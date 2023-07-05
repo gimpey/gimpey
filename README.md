@@ -4,4 +4,4 @@
 
 Developer for [pr0xy](https://pr0xy.io). Check out our [Organization](https://github.com/pr0xy-io).
 
-For business inquiries, please reach out to the [email](mailto:team@pr0xy.io) on my profile.
+For business inquiries, please reach out via [email](mailto:team@pr0xy.io).
