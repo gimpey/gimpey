@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gimpey
 
-![pr0xy Banner](https://cdn.pr0xy.io/.github/gimpey-github-banner.png)
+![pr0xy Banner](https://cdn.pr0xy.io/.github/banners/gimpey-github-banner.png)
 
 Developer for [pr0xy](https://pr0xy.io). Check out our [Organization](https://github.com/pr0xy.io).
 
