@@ -5,3 +5,7 @@
 Developer for [pr0xy](https://pr0xy.io). Check out our [organization](https://github.com/pr0xy-io).
 
 For business inquiries, please reach out via [email](mailto:team@pr0xy.io).
+
+## LeetCode
+
+Check out my LeetCode progress [here](https://leetcode.com/u/gimpey/).
